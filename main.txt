@@ -1,12 +1,4 @@
 
 
-==feature 1
 
-===base system ====
-
-<<<<<<< HEAD
-
-
-=======
-===feature 2
->>>>>>> feature2
+==== Base System ====
