@@ -4,5 +4,9 @@
 
 ===base system ====
 
+<<<<<<< HEAD
 
 
+=======
+===feature 2
+>>>>>>> feature2
